@@ -1,0 +1,2 @@
+- [x] Finish Lab 0
+- [ ] Finish Lab 1

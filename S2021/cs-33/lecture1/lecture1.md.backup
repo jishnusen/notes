@@ -1,0 +1,36 @@
+# CS 33: Lecture 1 (3/29)
+
+## Computer Science Abstraction Layers
+
+<p align="center" style="height:350px"><img src="images/layers.png"/></p>
+
+- Above is a diagram of all the layers of abstraction in a computer.
+
+## Class Policies
+
+### Style
+
+- Discussions are required
+- Lectures cover high level concepts
+- Labs are the "heart" of the course, ie the biggest learning experience
+- Class webpage hosted on CCLE
+- Grading:
+  - Exams (50%)
+  - Labs (35%)
+  - Discussion Attendance (10%)
+  - Homework (5%)
+
+### Upcoming Assigments
+
+- Labs:
+  - Warmup lab
+  - Data lab
+  - Bomb lab
+  - Attack lab
+  - Parallel lab
+
+## Back to CS
+
+### The Compilation System
+
+<p align="center"><img src="images/compiling.png"/></p>
